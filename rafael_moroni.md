@@ -7,7 +7,7 @@
 
 ## Resumo das Qualificações:
 
-Experiência em web sites com criação e ajustes em imagens e animações e programação em HTML5, CSS3, PHP e JQuery.
+Experiência em web sites e lojas virtuais, com criação e ajustes em imagens e animações e programação em HTML5, CSS3, PHP e JQuery.
 
 Possuo experiência em MVC.
 
