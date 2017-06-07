@@ -11,28 +11,40 @@ Experiência em web sites e lojas virtuais, com criação e ajustes em imagens e
 
 Possuo experiência em MVC.
 
+
 ## Habilidades Web
 
 *   HTML5 / CSS3 / SCSS / JavaScript
 *   Sass /NodeJS
 *   Git / Grunt 
-*   Wordpress / Magento / VTex / Core
+*   Wordpress / Magento
+*   Vtex - Masterdata e APi
+*   EZ-Core
+*   Rakuten
 
 ## Habilidades de TI, Back End
 
-*   Mysql / SQL Server / Linux 
-*   PHP 
+*   Mysql / SQL Server / Linux
+*   PHP
 
 ## Trabalhos recentes
-* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/)
-* [Chevrolet fan store](http://www.chevroletfanstore.com.br/)
-* [Pierre Cardin store](http://store.pierrecardin.com.br/)
-* [Purificadores Europa](http://www.europa.com.br/)
-* [FisioFernandes](https://www.fisiofernandes.com.br/)
-* [Ratus Skate Shop](http://www.ratusskateshop.com.br/)
-* [Domain Games](http://www.domaingames.com.br/)
-* [Vital Odonto](http://www.vitalodonto.com.br/)
-* [Art Fusion](http://www.lojadatatuagem.com.br/)
+
+* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Desenvolvimento da loja atual no ambiente Vtex, e atualmente estou desenvolvendo a evolução da loja no ambiente Magento.
+
+* [Chevrolet fan store](http://www.chevroletfanstore.com.br/) - Desenvolvimento da loja no ambiente Vtex.
+
+* [Pierre Cardin store](http://store.pierrecardin.com.br/) - Desenvolvimento da loja no ambiente Vtex.
+* [Purificadores Europa](http://www.europa.com.br/) - Desenvolvimento da loja no ambiente Vtex e do institucional no Wordpress
+
+* [FisioFernandes](https://www.fisiofernandes.com.br/) - Desenvolvimento da loja no ambiente Vtex.
+
+* [Ratus Skate Shop](http://www.ratusskateshop.com.br/) - Desenvolvimento da loja no ambiente Vtex.
+
+* [Domain Games](http://www.domaingames.com.br/) - Desenvolvimento da loja em Framework da própria agência, baseado em MVC.
+
+* [Vital Odonto](http://www.vitalodonto.com.br/) - Desenvolvimento do site institucional em Wordpress.
+
+* [Art Fusion](http://www.lojadatatuagem.com.br/) - Desenvolvimento da loja em Framework da própria agência, baseado em MVC.
 
 ## Formação
 
