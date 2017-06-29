@@ -31,6 +31,8 @@ Possuo experiência em MVC.
 
 * [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Desenvolvimento da loja atual no ambiente Vtex, e atualmente estou desenvolvendo a evolução da loja no ambiente Magento.
 
+* [Canal Agrícola](http://www.canalagricola.com.br/) - Desenvolvimento da loja em Magento.
+
 * [Chevrolet fan store](http://www.chevroletfanstore.com.br/) - Desenvolvimento da loja no ambiente Vtex.
 
 * [Pierre Cardin store](http://store.pierrecardin.com.br/) - Desenvolvimento da loja no ambiente Vtex.
