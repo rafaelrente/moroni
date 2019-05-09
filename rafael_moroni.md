@@ -15,8 +15,8 @@ Possuo experiência em MVC.
 ## Habilidades Web
 
 *   HTML5 / CSS3 / SCSS / JavaScript
-*   Sass /NodeJS
-*   Git / Grunt 
+*   Sass / Less / NodeJS
+*   Git / Grunt / Gulp
 *   Wordpress / Magento
 *   Vtex - Masterdata e APi
 *   EZ-Core
@@ -29,6 +29,16 @@ Possuo experiência em MVC.
 
 ## Trabalhos recentes
 
+* [Drogaria Nova Esperança](https://www.drogarianovaesperanca.com.br/); - Relayout da loja B2C.
+
+* [New Balance](https://cart.compraunilever.com.br/login); - Relayout da loja B2C.
+
+* [Unilever B2B](https://cart.compraunilever.com.br/login); - Melhorias na loja B2B.
+
+* [Unilever B2B](https://cart.compraunilever.com.br/login) - Melhorias na loja B2B.
+
+* [Compra Bom Bril](https://www.comprabombril.com.br/) - Desenvolvimento da loja B2E.
+
 * [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Desenvolvimento da loja atual no ambiente Vtex, e atualmente estou desenvolvendo a evolução da loja no ambiente Magento.
 
 * [Canal Agrícola](http://www.canalagricola.com.br/) - Desenvolvimento da loja em Magento.
@@ -38,19 +48,14 @@ Possuo experiência em MVC.
 * [Pierre Cardin store](http://store.pierrecardin.com.br/) - Desenvolvimento da loja no ambiente Vtex.
 * [Purificadores Europa](http://www.europa.com.br/) - Desenvolvimento da loja no ambiente Vtex e do institucional no Wordpress
 
-* [FisioFernandes](https://www.fisiofernandes.com.br/) - Desenvolvimento da loja no ambiente Vtex.
-
 * [Ratus Skate Shop](http://www.ratusskateshop.com.br/) - Desenvolvimento da loja no ambiente Vtex.
-
-* [Domain Games](http://www.domaingames.com.br/) - Desenvolvimento da loja em Framework da própria agência, baseado em MVC.
-
-* [Vital Odonto](http://www.vitalodonto.com.br/) - Desenvolvimento do site institucional em Wordpress.
-
-* [Art Fusion](http://www.lojadatatuagem.com.br/) - Desenvolvimento da loja em Framework da própria agência, baseado em MVC.
 
 ## Formação
 
- * Formado no Colégio Técnico de Processamento de Dados
+ * Sistemas de Informação
+Uninove - Cursando
+
+ * Técnico de Processamento de Dados
 Instituição de Ensino Santa Izildinha, 2003.
 
 ## Idiomas
@@ -58,8 +63,12 @@ Instituição de Ensino Santa Izildinha, 2003.
 * Inglês avançado
 
 ## Trajetória Profissional:
+
+* Front-end em empresa **[Degrau Publicidade e Internet]( http://www.degraupublicidade.com.br/)**, desde 11/08/2018.
+
+* Front-end em empresa **[Infracommerce]( http://www.infracommerce.com.br/)**, de 01/08/2017 até 10/2018.
  
-* Front-end em empresa **[Sanders Digital]( http://www.sandersdigital.com.br/)**, desde 23/03/2015.
+* Front-end em empresa **[Sanders Digital]( http://www.sandersdigital.com.br/)**, de 23/03/2015 até 07/2017.
 
 * Front-end em empresa **[Digital Central]( http://www.digitalcentral.com.br/)**, de 15/09/2014 até 03/2015.
 
